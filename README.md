@@ -10,7 +10,7 @@ ionic-swing is a fork of the following projects intended to add the swipeable ca
 To install this library, run:
 
 ```bash
-$ npm install ionic-swing --save
+$ npm install ionic5-swing --save
 ```
 
 ## Usage
